@@ -36,3 +36,11 @@ tr, td{
 .btn{
     text-align: center;
 }
+
+.btnl:hover{
+    background: url(img/arrow_back.png) no-repeat;
+}
+
+.btnr:hover{
+    background: url(img/arrow_forward.png) no-repeat;
+}
