@@ -38,9 +38,11 @@ tr, td{
 }
 
 .btnl:hover{
-    background: url(img/arrow_back_white.png) no-repeat;
+    width: 10%;
+    align-items: center;
 }
 
 .btnr:hover{
-    background: url(img/arrow_forward_white.png) no-repeat;
+    width: 10%;
+    align-items: center;
 }
