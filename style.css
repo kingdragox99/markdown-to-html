@@ -38,11 +38,11 @@ tr, td{
 }
 
 .btnl:hover{
-    width: 10%;
+    width: 10px;
     align-items: center;
 }
 
 .btnr:hover{
-    width: 10%;
+    width: 10px;
     align-items: center;
 }
