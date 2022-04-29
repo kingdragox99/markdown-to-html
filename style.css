@@ -1,4 +1,12 @@
-table, th, td {
-    border: 1px solid;
-    color: black
+table{
+    border-style: solid;
+    border-color: black;
+    width: 70%;
+  }
+
+  td{
+      border-style: none;
+      background-color: rgb(36, 36, 36);
+      width: 70px;
+      text-align: center;
   }
