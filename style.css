@@ -74,7 +74,7 @@ tr, td{
 
 .btn{
     position: static;
-
+    text-align: center;
 }
 
 .btnh:hover{
